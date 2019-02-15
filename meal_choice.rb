@@ -1,3 +1,3 @@
-def meal_choice(meal)
-  puts meal
+def meal_choice(Meal)
+  puts "#{Meal}"
 end
